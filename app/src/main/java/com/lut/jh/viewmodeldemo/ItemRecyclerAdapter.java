@@ -54,7 +54,4 @@ public class ItemRecyclerAdapter extends RecyclerView.Adapter<ItemRecyclerAdapte
         return this.items.size();
     }
 
-    public void setItems(ArrayList<Item> items) {
-        this.items = items;
-    }
 }
