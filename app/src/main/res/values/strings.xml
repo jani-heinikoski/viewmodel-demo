@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewModelDemo</string>
+    <string name="item_description_label">Item\'s description</string>
+    <string name="type_here_hint">Type here</string>
+    <string name="add_item_button_text">Add Item</string>
+    <string name="item_recyclerview_label">Items:</string>
+    <string name="item_count_label">Item counter:</string>
+    <string name="remove_items_button_text">Remove Items</string>
+</resources>
